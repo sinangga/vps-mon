@@ -15,7 +15,7 @@ const io = new Server(server, {
   }
 });
 
-const PORT = 3001;
+const PORT = 3100;
 
 // Helper to format bytes
 function formatBytes(bytes, decimals = 2) {
